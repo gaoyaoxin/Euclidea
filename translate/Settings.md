@@ -1,13 +1,13 @@
-##mainpage
-主界面
+##mainpage  
+##主界面 
 “There is no royal road to geometry.” - Euclid  
 几何无捷径。——欧几里德
 
 ##Settings
-设置
+##设置
 
 ####References
-游戏参考  
+####游戏参考  
 -Each solution is scored in two types of moves: L (lines) and E (elementary Euclidean constructions). Points are not taken into account.
 
 L counts tool actions: constructing a line, a perpendicular, and so on. E counts moves as if a construction was made with real compass and straightedge. Each advanced tool has its own E cost (see the table below).
@@ -55,7 +55,7 @@ Compass Tool|1L 5E
 Intersect Tool|0L 0E
 -
 ####Reset progress
-重置游戏进度
+####重置游戏进度
 
 -Progress
 -游戏进度
@@ -73,7 +73,7 @@ Intersect Tool|0L 0E
 -重置
 
 ####Restore purchases
-恢复已购项目
+####恢复已购项目
 
 -Purchases restored.
 -已购项目恢复成功。
@@ -85,19 +85,19 @@ Intersect Tool|0L 0E
 -好
 
 ####Game Center
-Game Center 游戏中心
+####Game Center 游戏中心
 
 ####Stay informed on our latest news:
-获取我们的最新情况：
+####获取我们的最新情况：
 
 ####Feedback
-提交反馈
+####提交反馈
 
 ####Rate it
-提交评分
+####提交评分
 
 ####About us
-关于我们  
+####关于我们  
 
 -We love mathematics. It is realyy beautiful and can bring a lot of pleasure. When you do math your mind becomes stronger. It develops critical thinking skills and makes you smarter. Our app will help you to touch the magic world of geometric constructions. Good luck!
 
@@ -120,7 +120,7 @@ www.euclidea.xyz    support@euclidea.xyz
 www.euclidea.xyz    support@euclidea.xyz  
 
 ####Thanks to the developers
-向开发人员致谢  
+####向开发人员致谢  
 
 -You can thank the developers.
 -你可以在此向开发人员致谢。
@@ -132,5 +132,5 @@ www.euclidea.xyz    support@euclidea.xyz
 -取消
 
 ####Version:
-版本号：
+####版本号：
 
