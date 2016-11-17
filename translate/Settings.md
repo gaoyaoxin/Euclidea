@@ -1,13 +1,13 @@
-﻿##mainpage
+##mainpage
 主界面
-“There is no royal road to geometry.” - Euclid
+“There is no royal road to geometry.” - Euclid  
 几何无捷径。——欧几里德
 
 ##Settings
 设置
 
 ####References
-游戏参考
+游戏参考  
 -Each solution is scored in two types of moves: L (lines) and E (elementary Euclidean constructions). Points are not taken into account.
 
 L counts tool actions: constructing a line, a perpendicular, and so on. E counts moves as if a construction was made with real compass and straightedge. Each advanced tool has its own E cost (see the table below).
@@ -97,7 +97,7 @@ Game Center 游戏中心
 提交评分
 
 ####About us
-关于我们
+关于我们  
 
 -We love mathematics. It is realyy beautiful and can bring a lot of pleasure. When you do math your mind becomes stronger. It develops critical thinking skills and makes you smarter. Our app will help you to touch the magic world of geometric constructions. Good luck!
 
@@ -107,20 +107,20 @@ We would like to thank the following people for giving us helpful feedback and i
 
 Your feedback is highly appreciated. You can contact us via site or write an email.
 
-www.euclidea.xyz    support@euclidea.xyz
+www.euclidea.xyz    support@euclidea.xyz  
 
--我们热爱数学。她美丽动人、其乐无穷。思索数学，可以锤炼思维、学会思辨、更加聪慧。我们的应用将带您进入几何建构的魔幻世界，祝你好运！
+-我们热爱数学。她美丽动人、其乐无穷。思索数学，可以锤炼思维、学会思辨、更加聪慧。我们的应用将带您进入几何建构的魔幻世界，祝你好运！ 
 
-致谢
+致谢  
 
-在此向以下提供反馈和改进解法的人士表达感谢，他们是：Chewy, Roberto Espiño, Egor Filatov, Segey Frolkin, Konstantin Knop, Vadim Lanko, Nan Ma, Polina Parkhomyuk, Stepan Philippov, Nicola Salmoria, Anton Stegantsev。以及其他许多人士。
+在此向以下提供反馈和改进解法的人士表达感谢，他们是：Chewy, Roberto Espiño, Egor Filatov, Segey Frolkin, Konstantin Knop, Vadim Lanko, Nan Ma, Polina Parkhomyuk, Stepan Philippov, Nicola Salmoria, Anton Stegantsev。以及其他许多人士。  
 
-我们非常乐意获得您的反馈。您可以前往我们的网站或发送电子邮件与我们取得联系。
+我们非常乐意获得您的反馈。您可以前往我们的网站或发送电子邮件与我们取得联系。  
 
-www.euclidea.xyz    support@euclidea.xyz
+www.euclidea.xyz    support@euclidea.xyz  
 
 ####Thanks to the developers
-向开发人员致谢
+向开发人员致谢  
 
 -You can thank the developers.
 -你可以在此向开发人员致谢。
