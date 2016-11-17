@@ -43,6 +43,12 @@ Onfinger on an emoty area scrolls.
 Two finger gesture rotates.
 
 Cost
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 |1|1|
 |--|--|
 |Move Tool|0L 0E|
