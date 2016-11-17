@@ -43,7 +43,7 @@ Onfinger on an emoty area scrolls.
 Two finger gesture rotates.
 
 Cost
-|--|--|
+| | |
 |--|--|
 |Move Tool|0L 0E|
 |Point Tool|0L 0E|
